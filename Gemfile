@@ -28,6 +28,9 @@ gem 'bootstrap-sass'
 # Use stripe gem for ecommerce 
 gem 'stripe'
 
+# Use figaro gem to securely manage credentials
+gem 'figaro'
+
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
